@@ -28,5 +28,4 @@ This project extracts the first 6 headings with their corresponding date and tim
    - The program will extract the first 6 headings, along with their respective date and time, from **time.com** and display them in the console.
 
 
-
-## Assignment submission by Ishica.
+Assignment submission by Ishica.
